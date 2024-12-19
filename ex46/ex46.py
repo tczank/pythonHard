@@ -39,15 +39,15 @@ class Employee(Person):
         self.salary = salary
 
 ## ??
-class Fish(object)
+class Fish(object):
     pass
 
 ## ??
-class Salmon(Fish)
+class Salmon(Fish):
     pass
 
 ## ??
-class Halibut(Fish)
+class Halibut(Fish):
     pass
 
 ## rover is-a Dog
